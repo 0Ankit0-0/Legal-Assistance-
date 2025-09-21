@@ -1,0 +1,36 @@
+# Core Framework
+Flask
+Flask-CORS
+Flask-JWT-Extended
+
+# AI/ML Libraries (CPU optimized)
+transformers
+torch
+sentencepiece
+sentence-transformers
+google-generativeai
+
+# Database
+pymongo
+dnspython
+
+# Google Drive Integration  
+google-api-python-client
+google-auth
+google-auth-oauthlib
+
+# File Processing (Lightweight OCR)
+PyMuPDF
+easyocr
+Pillow
+opencv-python-headless
+
+# Vector Search
+faiss-cpu
+numpy
+
+# Utilities
+python-dotenv
+requests
+gunicorn
+bcrypt
